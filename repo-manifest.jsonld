@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/optuna/optuna-integration/commit/92f0ceeb23c935826f4e6457bd393f81ef6fb631",
       "git:hexsha": "92f0ceeb23c935826f4e6457bd393f81ef6fb631",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:29:57.394085+00:00"
     },
     {
       "@id": "https://repolex.ai/r/optuna/optuna-integration/commit/20b331bf9e6790d35788a5213956f03838cf28b7",
