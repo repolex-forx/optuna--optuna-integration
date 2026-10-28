@@ -1,0 +1,11 @@
+{
+  "org": "optuna",
+  "repo": "optuna-integration",
+  "versions": [
+    {
+      "commit": "92f0ceeb23c935826f4e6457bd393f81ef6fb631",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:29:57.394729+00:00"
+    }
+  ]
+}
